@@ -38,7 +38,7 @@ public class Cos {
         Double d1[] = new Double[1];
         Double[] d = (Double[]) list.toArray(d1);
         System.out.println(Arrays.toString(d));
+        System.err.println("Hasan Kağanarslan");
         
-
     }
 }
